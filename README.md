@@ -1,2 +1,5 @@
-# discordJS-V13
-Discord.js V13 Bot Example
+# Manual installation
+
+npm install l
+
+node index.js
