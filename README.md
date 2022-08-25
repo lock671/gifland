@@ -1,5 +1,5 @@
 # Manual installation
 
-npm install l
+npm install
 
 node index.js
